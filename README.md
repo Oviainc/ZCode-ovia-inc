@@ -1,4 +1,6 @@
-# ZCode
+> **Ovia Inc fork** — We maintain this fork of [zai-org/ZCode](https://github.com/zai-org/ZCode), Z.ai's coding agent harness — powerful, intelligent, extensible. We evaluate coding-agent harnesses for the development workflows we run and set up for clients. Upstream credit: Z.ai. License: Apache-2.0 (see LICENSE). The upstream project is documented below.
+
+ # ZCode
 
 <div align="center">
   <img src="public/logo/icons/1024x1024.png" alt="ZCode" width="128" height="128" />
